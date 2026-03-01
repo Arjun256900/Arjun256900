@@ -7,9 +7,8 @@ I’m a Software Engineer who builds systems that (usually) don't crash. When th
 ---
 
 ## What I’m currently up to:
-- **Scaling the Unscalable:** Currently preparing for IndiaSkills Nationals while deep-diving into the nook and corners of AWS EKS
-- **CERN Aspirant:** Dreaming of low-latency data and petabyte-scale challenges. 
-- **Language Learning:** `print("Hallo Welt!")` // Currently at B1 German (Ich verspreche)
+- **Scaling the Unscalable:** Currently preparing for IndiaSkills Nationals while deep-diving into the nook and corners of AWS EKS.
+- **Language Learning:** `print("Hallo Welt!")` // Currently at B1 German (Ich verspreche).
 
 ## My Technical Buddies
 
