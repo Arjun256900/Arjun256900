@@ -36,4 +36,4 @@ I’m a Software Engineer who builds systems that (usually) don't crash. When th
 ### Let's connect!
 [LinkedIn](https://www.linkedin.com/in/arjun-s-v-6657a027a/) | [Portfolio](https://arjunportfolio-lyart.vercel.app/) | [Email](mailto:alphasva1998@gmail.com)
 
-*"The goal is not to live forever, the goal is to create code that will. ~ Arjun, 2026"*
+*"The goal is not to live forever, the goal is to create code that will."*
